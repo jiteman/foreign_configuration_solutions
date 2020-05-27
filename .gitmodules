@@ -1,3 +1,6 @@
 [submodule "jmsd_tps_zlib"]
 	path = jmsd_tps_zlib
 	url = https://github.com/jiteman/jmsd_tps_zlib.git
+[submodule "jmsd_tps_png"]
+	path = jmsd_tps_png
+	url = https://github.com/jiteman/jmsd_tps_png.git
