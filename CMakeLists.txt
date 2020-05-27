@@ -13,3 +13,4 @@ include_directories( ${CMAKE_BINARY_DIR}/jmsd_tps_png )
 add_subdirectory( jmsd_tps_freetype ) # depends on zlib, png
 add_subdirectory( jmsd_tps_glut/freeglut ) # depends on png
 
+add_subdirectory( jmsd_tps_sdl )
