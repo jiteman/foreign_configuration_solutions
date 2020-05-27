@@ -4,3 +4,6 @@
 [submodule "jmsd_tps_png"]
 	path = jmsd_tps_png
 	url = https://github.com/jiteman/jmsd_tps_png.git
+[submodule "jmsd_tps_freetype"]
+	path = jmsd_tps_freetype
+	url = https://github.com/jiteman/jmsd_tps_freetype.git
