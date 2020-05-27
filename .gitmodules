@@ -10,3 +10,6 @@
 [submodule "jmsd_tps_glut"]
 	path = jmsd_tps_glut
 	url = https://github.com/jiteman/jmsd_tps_glut.git
+[submodule "jmsd_tps_sdl"]
+	path = jmsd_tps_sdl
+	url = https://github.com/jiteman/jmsd_tps_sdl.git
