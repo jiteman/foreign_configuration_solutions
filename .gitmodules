@@ -7,3 +7,6 @@
 [submodule "jmsd_tps_freetype"]
 	path = jmsd_tps_freetype
 	url = https://github.com/jiteman/jmsd_tps_freetype.git
+[submodule "jmsd_tps_glut"]
+	path = jmsd_tps_glut
+	url = https://github.com/jiteman/jmsd_tps_glut.git
